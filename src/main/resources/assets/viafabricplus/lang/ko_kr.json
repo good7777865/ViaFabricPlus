@@ -107,6 +107,7 @@
   "visual_settings.viafabricplus.force_unicode_font_for_non_ascii_languages": "ASCII가 아닌 언어에 유니코드 글꼴 강제 적용",
   "visual_settings.viafabricplus.filter_non_existing_glyphs": "존재하지 않는 글자 제거",
   "visual_settings.viafabricplus.sneak_instantly": "즉시 웅크리기",
+  "visual_settings.viafabricplus.change_body_rotation_interpolation": "몸체 회전 보간 방법 바꾸기",
 
   "force_version.viafabricplus.title": "서버가 표시/연결되어야 하는 버전을 선택하세요.",
 
